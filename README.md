@@ -1,0 +1,2 @@
+# sqltest
+evaluate SQLDeveloper + git
